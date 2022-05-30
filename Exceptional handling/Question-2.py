@@ -7,7 +7,5 @@ def AbyB(a , b):
 		print ("a/b result in 0")
 	else:
 		print (c)
-
-# Driver program to test above function
 AbyB(2.0, 3.0)
 AbyB(3.0, 3.0)
