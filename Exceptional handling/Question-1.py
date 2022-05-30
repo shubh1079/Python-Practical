@@ -1,7 +1,7 @@
 '''WAP in python  to depict Raising Exception'''
 #ANSWER:-
 try:
-	raise NameError("Hi there") # Raise Error
+	raise NameError("Hi there") 
 except NameError:
 	print ("An exception")
-	raise # To determine whether the exception was raised or not
+	raise 
